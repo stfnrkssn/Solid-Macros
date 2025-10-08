@@ -1,4 +1,4 @@
-﻿// Solstice Games © 2024. All Rights Reserved.
+// Solstice Games � 2024. All Rights Reserved.
 
 #ifndef SOLID_MACROS_STANDARD_HASHING_H
 #define SOLID_MACROS_STANDARD_HASHING_H

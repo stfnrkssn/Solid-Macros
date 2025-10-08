@@ -1,4 +1,4 @@
-﻿// Solstice Games © 2023. All Rights Reserved.
+// Solstice Games c 2023. All Rights Reserved.
 
 #ifndef SOLID_CONCEPTS_H
 #define SOLID_CONCEPTS_H
